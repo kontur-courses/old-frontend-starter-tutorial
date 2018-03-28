@@ -1,2 +1,2 @@
 
-# [Start](https://kontur-csharper.github.io/old-frontend-starter-tutorial)
+# [Start](https://kontur-courses.github.io/old-frontend-starter-tutorial/)
